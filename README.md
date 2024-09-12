@@ -24,5 +24,7 @@ Seeed ESP32C3 board must be used with accelerometer via I2C.
 
 # References:
 https://www.hackster.io/mjrobot/exploring-machine-learning-with-the-new-xiao-esp32s3-6463e5
+
 https://randomnerdtutorials.com/esp-now-esp32-arduino-ide/
+
 https://www.hackster.io/HackingSTEM/stream-data-from-arduino-into-excel-f1bede
