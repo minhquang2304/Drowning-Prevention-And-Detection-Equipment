@@ -22,6 +22,8 @@ lib_deps= C:\users\admin\Documents\Library_Machine_Learning\project-1-arduino-1.
 
 Seeed ESP32C3 board must be used with accelerometer via I2C.
 
+You can get the data collecting code here https://github.com/minhquang2304/Data-Collecting-Code-For-Drowning-Detection
+You can explore more of this project here https://www.hackster.io/521583/drowning-detection-device-using-machine-learning-ba15ea
 # References:
 https://www.hackster.io/mjrobot/exploring-machine-learning-with-the-new-xiao-esp32s3-6463e5
 
