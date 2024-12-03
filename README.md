@@ -24,7 +24,7 @@ Seeed ESP32C3 board must be used with an accelerometer via I2C.
 
 You can get the data-collecting code here [LINK](https://github.com/minhquang2304/Data-Collecting-Code-For-Drowning-Detection) 
 
-You can explore more of this project here [LINK]([url](https://www.hackster.io/521583/drowning-detection-device-using-machine-learning-ba15ea)) https://www.hackster.io/521583/drowning-detection-device-using-machine-learning-ba15ea
+You can explore more of this project here [LINK](https://www.hackster.io/521583/drowning-detection-device-using-machine-learning-ba15ea)
 # References:
 https://www.hackster.io/mjrobot/exploring-machine-learning-with-the-new-xiao-esp32s3-6463e5
 
