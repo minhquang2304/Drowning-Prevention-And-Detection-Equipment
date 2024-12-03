@@ -1,12 +1,12 @@
-# This is my highschool project to detect drowning using machine learning model on edge device
+# This is my high school project to detect drowning using a machine learning model on Edge Impulse
 
-The software is meant to be run on a ESP32 with BLE (Bluetooth Low Energy) 
+The software is meant to be run on an ESP32 with BLE (Bluetooth Low Energy) 
 
 To use the software you first have to download the machine learning library called project-1-arduino-1.0.5.zip and include it in the main program. 
 
 Extension PlatformIO should be used on VScode to upload the code.
 
-Platform.ini should be modified as following:
+Platform.ini should be modified as follows:
 
 [env:seeed_xiao_esp32c3]
 platform = espressif32  
@@ -20,9 +20,9 @@ lib_deps= C:\users\admin\Documents\Library_Machine_Learning\project-1-arduino-1.
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; https://github.com/ElectronicCats/mpu6050.git  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; jrowberg/I2Cdevlib-BMP085 @ ^1.0.0  
 
-Seeed ESP32C3 board must be used with accelerometer via I2C.
+Seeed ESP32C3 board must be used with an accelerometer via I2C.
 
-You can get the data collecting code here https://github.com/minhquang2304/Data-Collecting-Code-For-Drowning-Detection
+You can get the data-collecting code here [LINK](https://github.com/minhquang2304/Data-Collecting-Code-For-Drowning-Detection) 
 
 You can explore more of this project here https://www.hackster.io/521583/drowning-detection-device-using-machine-learning-ba15ea
 # References:
