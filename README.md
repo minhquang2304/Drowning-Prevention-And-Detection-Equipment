@@ -31,3 +31,4 @@ https://www.hackster.io/mjrobot/exploring-machine-learning-with-the-new-xiao-esp
 https://randomnerdtutorials.com/esp-now-esp32-arduino-ide/
 
 https://www.hackster.io/HackingSTEM/stream-data-from-arduino-into-excel-f1bede
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
